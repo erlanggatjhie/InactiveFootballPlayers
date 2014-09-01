@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'InactiveFootballPlayers'
+rescue
+  require 'rubygems'
+  require 'InactiveFootballPlayers'
+end
+
+puts "Hello World"

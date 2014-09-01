@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = InactiveFootballPlayers::VERSION
   spec.authors       = ["Erlangga Tjhie"]
   spec.email         = ["erlangga_tjhie@hotmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Ruby Gem to display a list of inactive football players}
+  spec.description   = %q{Ruby Gem to display a list of inactive football players}
   spec.homepage      = ""
   spec.license       = "MIT"
 
